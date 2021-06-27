@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581969542 source:c:\users\alex\desktop\c++ projs\free windows\main.cpp
+	<iostream>
+	<windows.h>
+	<fstream>
+	<string>
+
